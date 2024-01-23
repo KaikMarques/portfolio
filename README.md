@@ -23,7 +23,7 @@
 
  #Previsões e Tendências:
 
-- Análise Preditiva: Fazer Previsões, Analisar Tendências
+    - Análise Preditiva: Fazer Previsões, Analisar Tendências
 
  #Comunicação de Dados
  
