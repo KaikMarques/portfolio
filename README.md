@@ -3,36 +3,39 @@
 #### Habilidades Técnicas: Python, SQL, Tableau, Power BI, Excel, Google Sheets, Google Data Studio
 
 ## Formação
-- Ciêntista de Dados | Universidade Cruzeiro do Sul (_Cursando 3º Semestre_)								       		
+- Ciência de Dados | Universidade Cruzeiro do Sul (_Cursando 3º Semestre_)								       		
 
 ## Cursos
-- Data Science & Analytics (_Janeiro 2024_)
-  - Formação Data Sceiente & Analytics, ministrado pelo pós-graduado pela Griffith University e CEO DataScy, Jerry Strazzeri.
+    - Data Science & Analytics (_Janeiro 2024_)
+    - Formação Data Sceiente & Analytics, ministrado pelo pós-graduado pela Griffith University e CEO DataScy, Jerry Strazzeri.
 
 
  #Habilidades Técnicas 
 
-Visualização de Dados: Tableau, Power BI, Excel, Google Sheets
-Linguagens de Programação: Python, SQL
-Análise Preditiva e Inteligência Artificial: Machine Learning, Inteligência Artificial, Desenvolvimento de Modelos Preditivos
+    - Visualização de Dados: Tableau, Power BI, Excel, Google Sheets
+    - Linguagens de Programação: Python, SQL
+    - Análise Preditiva e Inteligência Artificial: Machine Learning, Inteligência Artificial, Desenvolvimento de Modelos Preditivos
    
  #Análise e Experimentação
 
-Ferramentas Analíticas: Google Analytics, Excel, Google Sheets
-Experimentação e Testes: Experimentação, Testes Estatísticos
+    - Ferramentas Analíticas: Google Analytics, Excel, Google Sheets
+    - Experimentação e Testes: Experimentação, Testes Estatísticos
 
  #Previsões e Tendências:
 
-Análise Preditiva: Fazer Previsões, Analisar Tendências
+- Análise Preditiva: Fazer Previsões, Analisar Tendências
 
  #Comunicação de Dados
-Storytelling com Dados: Comunicar Insights de Forma Eficaz, Criar Narrativas Visuais
+ 
+    - Storytelling com Dados: Comunicar Insights de Forma Eficaz, Criar Narrativas Visuais
 
  #Métricas e Monitoramento
-KPIs e Métricas: Definição e Acompanhamento de KPIs, Estabelecimento de Métricas de Desempenho
+ 
+    - KPIs e Métricas: Definição e Acompanhamento de KPIs, Estabelecimento de Métricas de Desempenho
 
  #Recomendações Baseadas em Dados
-Prover Insights: Análise de Dados para Tomada de Decisões, Recomendações Estratégicas
+ 
+    - Prover Insights: Análise de Dados para Tomada de Decisões, Recomendações Estratégicas
 
 
 
@@ -43,8 +46,8 @@ Prover Insights: Análise de Dados para Tomada de Decisões, Recomendações Est
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+  - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+  - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
