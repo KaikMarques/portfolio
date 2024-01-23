@@ -1,11 +1,45 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Habilidades Técnicas: Python, SQL, Tableau, Power BI, Excel, Google Sheets, Google Data Studio
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Formação
+- Ciêntista de Dados | Universidade Cruzeiro do Sul (_Cursando 3º Semestre_)								       		
+
+## Cursos
+- Data Science & Analytics (_Janeiro 2024_)
+  - Formação Data Sceiente & Analytics, ministrado pelo pós-graduado pela Griffith University e CEO DataScy, Jerry Strazzeri.
+
+
+ #Habilidades Técnicas 
+
+Visualização de Dados: Tableau, Power BI, Excel, Google Sheets
+Linguagens de Programação: Python, SQL
+Análise Preditiva e Inteligência Artificial: Machine Learning, Inteligência Artificial, Desenvolvimento de Modelos Preditivos
+   
+ #Análise e Experimentação
+
+Ferramentas Analíticas: Google Analytics, Excel, Google Sheets
+Experimentação e Testes: Experimentação, Testes Estatísticos
+
+ #Previsões e Tendências:
+
+Análise Preditiva: Fazer Previsões, Analisar Tendências
+
+ #Comunicação de Dados
+Storytelling com Dados: Comunicar Insights de Forma Eficaz, Criar Narrativas Visuais
+
+ #Métricas e Monitoramento
+KPIs e Métricas: Definição e Acompanhamento de KPIs, Estabelecimento de Métricas de Desempenho
+
+ #Recomendações Baseadas em Dados
+Prover Insights: Análise de Dados para Tomada de Decisões, Recomendações Estratégicas
+
+
+
+
+
+
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
