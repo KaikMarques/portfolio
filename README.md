@@ -48,7 +48,7 @@ Responsabilidades:
 • Fornecer orientação de correção para descobertas.
 
 **Desenvolvedor Java - Backend @ BRQ Digital Solutions (_Out 2019 - Nov 2020_)**
-- Tendo atuado no projeto de consórcio no Banco Santander com a linguagem Java no back-end, usando as principais ferramentas no dia a dia como: Java 8+, JSF(PrimeFaces), SPRINGBOOT, • Angular • Microserviços • Bancode Dados: MS SQL, ORACLE ou Postgre (procedures, views, PL) • Sistemade Controle de Versão: GIT • Metodologia Ágil: Scrum
+• Tendo atuado no projeto de consórcio no Banco Santander com a linguagem Java no back-end, usando as principais ferramentas no dia a dia como: Java 8+, JSF(PrimeFaces), SPRINGBOOT, • Angular • Microserviços • Bancode Dados: MS SQL, ORACLE ou Postgre (procedures, views, PL) • Sistemade Controle de Versão: GIT • Metodologia Ágil: Scrum
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
