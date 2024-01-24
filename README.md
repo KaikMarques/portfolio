@@ -2,12 +2,12 @@
 
 #### Habilidades Técnicas: Python, SQL, Tableau, Power BI, Excel, Google Sheets, Google Data Studio
 
-## Formação
-- Ciência de Dados | Universidade Cruzeiro do Sul (_Cursando 3º semestre_)								       		
+## Formação ##
+ - Ciência de Dados | Universidade Cruzeiro do Sul (_Cursando 3º semestre_)								       		
 
 ## Cursos
  - Data Science & Analytics (_Janeiro 2024_)
- - Formação Data Sceiente & Analytics, ministrado pelo pós-graduado pela Griffith University e CEO DataScy, Jerry Strazzeri.
+ - Formação Data Science & Analytics, ministrado pelo pós-graduado pela Griffith University e CEO DataScy, Jerry Strazzeri.
 
 
 #Habilidades Técnicas 
