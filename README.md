@@ -57,6 +57,7 @@ Responsabilidades:
 Este projeto, desenvolvido no ambiente Jupyter utilizando a linguagem de programação Python e as bibliotecas pandas, seaborn e matplotlib, explora a relevância dos sistemas de Supervisory Control and Data Acquisition (Scada) em turbinas eólicas. Os dados cruciais, como velocidade do vento, potência gerada e direção do vento, foram analisados em intervalos de 10 minutos. Proveniente de uma turbina eólica em operação na Turquia, o arquivo destaca a importância da análise desses dados, incluindo a curva de potência teórica, LV ActivePower e velocidade do vento. Esses insights fornecem informações essenciais para otimizar a eficiência e a produção de energia, contribuindo para uma compreensão mais profunda do aproveitamento sustentável da energia eólica.
 
 #Aqui estou colocando o titulo com a imagem
+
 ![EEG Band Discovery](/img/Energia Eólica.png) 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
