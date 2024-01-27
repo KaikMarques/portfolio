@@ -58,7 +58,7 @@ Este projeto, desenvolvido no ambiente Jupyter utilizando a linguagem de program
 
 #Aqui estou colocando o titulo com a imagem
 
-![EEG Band Discovery](/img/Energia Eólica.png) 
+![EEG Band Discovery]([/img/Energia Eólica.png](https://github.com/KaikMarques/portfolio/blob/main/img/img1.jpg)) 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
