@@ -5,7 +5,7 @@
 
 
 ## Formação ## 
-  *Ciência de Dados | Universidade Cruzeiro do Sul (_Cursando 3º semestre_)							       		
+  Ciência de Dados | Universidade Cruzeiro do Sul (_Cursando 3º semestre_)							       		
 
 ## Cursos
  - Data Science & Analytics (_Janeiro 2024_)
