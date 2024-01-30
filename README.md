@@ -8,12 +8,11 @@
   Ciência de Dados | Universidade Cruzeiro do Sul (_Cursando 3º semestre_)							       		
 
 ## Cursos
- - Data Science & Analytics (_Janeiro 2024_)
- - Formação Data Science & Analytics, ministrado pelo pós-graduado pela Griffith University e CEO DataScy, Jerry Strazzeri.
-
+ - Data Science & Analytics (_Janeiro 2023_) - Curso Data Science & Analytics, ministrado pelo pós-graduado pela Griffith University e CEO DataScy, Jerry Strazzeri.
+ - Especialista Power BI (_Março 2023_) - Curso Power BI Experience, ministrado pelo pós-graduado pela Universidade Federal de Santa Catarina e CEO Xperiun, Leonardo Karpinsk.
 
 #Habilidades Técnicas 
-- Visualização de Dados: Tableau, Power BI, Excel, Google Sheets
+- Visualização de Dados: Tableau, Power BI, Excel, Google Sheets, DAX
 - Linguagens de Programação: Python, SQL
 - Análise Preditiva e Inteligência Artificial: Machine Learning, Inteligência Artificial, Desenvolvimento de Modelos Preditivos
 
