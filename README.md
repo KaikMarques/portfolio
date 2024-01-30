@@ -3,8 +3,9 @@
 #### Habilidades Técnicas: Python, SQL, Tableau, Power BI, Excel, Google Sheets, Google Data Studio
 
 
-## Formação ##
-  - Ciência de Dados | Universidade Cruzeiro do Sul (_Cursando 3º semestre_)								       		
+
+## Formação ## 
+  *Ciência de Dados | Universidade Cruzeiro do Sul (_Cursando 3º semestre_)							       		
 
 ## Cursos
  - Data Science & Analytics (_Janeiro 2024_)
@@ -57,12 +58,6 @@ Responsabilidades:
 Este projeto, desenvolvido no ambiente Jupyter utilizando a linguagem de programação Python e as bibliotecas pandas, seaborn e matplotlib, explora a relevância dos sistemas de Supervisory Control and Data Acquisition (Scada) em turbinas eólicas. Os dados cruciais, como velocidade do vento, potência gerada e direção do vento, foram analisados em intervalos de 10 minutos. Proveniente de uma turbina eólica em operação na Turquia, o arquivo destaca a importância da análise desses dados, incluindo a curva de potência teórica, LV ActivePower e velocidade do vento. Esses insights fornecem informações essenciais para otimizar a eficiência e a produção de energia, contribuindo para uma compreensão mais profunda do aproveitamento sustentável da energia eólica.
 ![](img/img1.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Lectures
 - Estátistica e Ciência de Dados - Pedro Alberto Morettin e Julio da Motta Singer (857 pg)
