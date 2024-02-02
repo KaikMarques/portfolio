@@ -49,17 +49,19 @@ Responsabilidades:
 • Fornecer orientação de correção para descobertas.
 
 **Desenvolvedor Java - Backend @ BRQ Digital Solutions (_Out 2019 - Nov 2020_)**
+Responsabilidades:
+
 • Tendo atuado no projeto de consórcio no Banco Santander com a linguagem Java no back-end, usando as principais ferramentas no dia a dia como: Java 8+, JSF(PrimeFaces), SPRINGBOOT, • Angular • Microserviços • Bancode Dados: MS SQL, ORACLE ou Postgre (procedures, views, PL) • Sistemade Controle de Versão: GIT • Metodologia Ágil: Scrum
 
 ## Projects
 ### [Analise de Dados de Turbinas Eólicas (setor energia)](https://github.com/KaikMarques/Projeto_AnaliseDeDados_setor_Energia)
 
-Este projeto, desenvolvido no ambiente Jupyter utilizando a linguagem de programação Python e as bibliotecas pandas, seaborn e matplotlib, explora a relevância dos sistemas de Supervisory Control and Data Acquisition (Scada) em turbinas eólicas. Os dados cruciais, como velocidade do vento, potência gerada e direção do vento, foram analisados em intervalos de 10 minutos. Proveniente de uma turbina eólica em operação na Turquia, o arquivo destaca a importância da análise desses dados, incluindo a curva de potência teórica, LV ActivePower e velocidade do vento. Esses insights fornecem informações essenciais para otimizar a eficiência e a produção de energia, contribuindo para uma compreensão mais profunda do aproveitamento sustentável da energia eólica.
+ Este projeto, desenvolvido no ambiente Jupyter utilizando a linguagem de programação Python e as bibliotecas pandas, seaborn e matplotlib, explora a relevância dos sistemas de Supervisory Control and Data Acquisition (Scada) em turbinas eólicas. Os dados cruciais, como velocidade do vento, potência gerada e direção do vento, foram analisados em intervalos de 10 minutos. Proveniente de uma turbina eólica em operação na Turquia, o arquivo destaca a importância da análise desses dados, incluindo a curva de potência teórica, LV ActivePower e velocidade do vento. Esses insights fornecem informações essenciais para otimizar a eficiência e a produção de energia, contribuindo para uma compreensão mais profunda do aproveitamento sustentável da energia eólica.
 ![](img/img1.jpg)
 
 ### [Análise de Precificação de Notebook - Feito no Databricks](https://bit.ly/projetodatabricks)
 
-Este projeto investiga os principais fatores que podem afetar a precificação dos notebooks, desde a marca do computador e o número de opções e complementos nele
+ Este projeto investiga os principais fatores que podem afetar a precificação dos notebooks, desde a marca do computador e o número de opções e complementos nele
 
 
 ## Lectures
