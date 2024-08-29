@@ -1,6 +1,5 @@
 # Java Developer
 
-#### Habilidades Técnicas: Python, SQL, Tableau, Power BI, Excel, Google Sheets, Google Data Studio
 (Java | Spring Boot | AWS | JavaScript | Angular |Javascript | HTML | CSS )
 
 
