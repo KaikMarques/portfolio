@@ -1,6 +1,6 @@
 # Java Developer
 
-(Java | Spring Boot | AWS | JavaScript | Angular |Javascript | HTML | CSS )
+(Java | Spring Boot | AWS | Angular | Javascript | HTML | CSS )
 
 
 
