@@ -50,15 +50,12 @@
 ## Work Experience
 **Analista de suporte Cibersegurança @ Kaspersky (_Out 2022 - Present_)**  
  * Responsabilidades:  
-• Realizar avaliação de segurança cibernética de sistemas industriais  
+• Realizar avaliação de segurança cibernética de sistemas industriais tanto B2B como B2C
 • Trabalhar de perto e se comunicar com os clientes para avaliar os controles de segurança cibernética apropriados para ambientes OT/ICS e evoluir essas arquiteturas para uma postura mais segura  
-• Desenvolver entregas abrangentes e precisas para o público técnico e executivo;  
 • Experiências em análise, depuração, solução de problemas de sistemas;  
 • Executar testes de penetração em infraestrutura tradicional, nuvem, aplicativos web, dispositivos móveis e sem fio, rede, engenharia social, campanhas de phishing;  
 • Desenvolver relatórios de testes de penetração com documentação de qualidade;  
-• Compartilhar conhecimento internamente ou em evento;  
-• Pesquisa e desenvolvimento técnico;   
-• Fornecer orientação de correção para descobertas.  
+
 
 **Desenvolvedor Java - Backend @ BRQ Digital Solutions (_Out 2019 - Nov 2020_)**  
 * Responsabilidades:  
