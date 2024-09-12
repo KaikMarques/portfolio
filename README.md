@@ -1,6 +1,6 @@
 # Java Developer
 
-( Java | Spring Boot | AWS | Angular | Javascript | HTML | CSS )
+Java - Spring Boot - AWS - Angular - Javascript - HTML - CSS 
 
 
 
@@ -14,13 +14,13 @@
  - [Curso Power BI Experience (_Março 2023_)]()
 
 > ### Linguagem de Programação
-> - Java | Python | SQL
+> - Java - Python - SQL
 
 
 > ### Frameworks 
-> - Spring Frameworks: Spring MVC | Spring Boot | Spring Data | Spring Security
+> - Spring Frameworks: Spring MVC - Spring Boot - Spring Data - Spring Security
 > - Hibernate e JPA (ORM)
-> - JSF (JavaServer Faces) | PrimeFaces | BootFaces
+> - JSF (JavaServer Faces) - PrimeFaces - BootFaces
 > - Thymeleaf
 > - Bootstrap
 > - Java EE e CDI
