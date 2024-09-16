@@ -9,8 +9,7 @@ Python - Java - Spring Boot - AWS - Angular - Javascript - HTML - CSS
 
 ## Cursos
 
- - [Formação Java Web Full-Stack e Spring Boot REST API (_Agosto 2024_)]()
- - [Data Science & Analytics (_Janeiro 2023_)]()
+ - Curso Excel Impressionador ( Hashtag treinamentos) – Iniciado em Agosto/2024  
  - [Curso Power BI Experience (_Março 2023_)]()
 
 > ### Linguagem de Programação
@@ -31,9 +30,14 @@ Python - Java - Spring Boot - AWS - Angular - Javascript - HTML - CSS
 > - Persistência de Dados (Hibernate, JPA)
 
 > ### Ferramentas
-> - Eclipse IDE
+> - Eclipse IDE, Pycharm, Anaconda, intellij idea 
 > - IReport e Jarper
 > - Apache Tomcat
+
+> ### Ferramentas Analíticas
+> - Google Analytics, Excel, Google Sheets
+> - Machine Learning, Inteligência Artificial, Desenvolvimento de Modelos Preditivos
+
 
 > ### Tecnologias Web
 > - WebServices e API Rest
@@ -69,12 +73,10 @@ Python - Java - Spring Boot - AWS - Angular - Javascript - HTML - CSS
 
 ### [Análise de Precificação de Notebook - Databricks](https://bit.ly/projetodatabricks)
 
- Este projeto investiga os principais fatores que podem afetar a precificação dos notebooks, desde a marca do computador e o número de opções e complementos nele
+ Este projeto investiga os principais fatores que podem afetar a precificação dos notebooks, desde a marca do computador e o número de opções e complementos nele   
+ 
 
 
-## Lectures
-- Estátistica e Ciência de Dados - Pedro Alberto Morettin e Julio da Motta Singer (857 pg)
-- Pandas Python - Data Wrangling para Ciência de Dados - Eduardo Corrêa (217 pg)
 
 
-- [Data Science Blog](https://medium.com/@kaikmarques.ti)
+.
