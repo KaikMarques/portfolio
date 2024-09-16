@@ -68,7 +68,7 @@ Python - Java - Spring Boot - AWS - Angular - Javascript - HTML - CSS
 
 ## Projects
 
-###[Análise de Ações com Python e Prophet](https://github.com/KaikMarques/app-financeiro-python-prophet}
+### [Análise de Ações com Python e Prophet](https://github.com/KaikMarques/app-financeiro-python-prophet)
   Este projeto é um dashboard que permite acompanhar ações do mercado financeiro em tempo real e prever seus preços futuros. Utilizando **Streamlit** para a interface, **yfinance** para obter dados financeiros e Prophet para gerar previsões, o dashboard oferece uma maneira simples e interativa de visualizar e analisar o comportamento das ações
 
 ### [Analise de Dados de Turbinas Eólicas - Python (setor energia)](https://github.com/KaikMarques/Projeto_AnaliseDeDados_setor_Energia)
