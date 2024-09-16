@@ -1,6 +1,6 @@
-# Java Developer
+# Estágio
 
-Java - Spring Boot - AWS - Angular - Javascript - HTML - CSS 
+Python - Java - Spring Boot - AWS - Angular - Javascript - HTML - CSS 
 
 
 
