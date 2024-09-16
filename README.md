@@ -9,7 +9,8 @@ Python - Java - Spring Boot - AWS - Angular - Javascript - HTML - CSS
 
 ## Cursos
 
- - Curso Excel Impressionador ( Hashtag treinamentos) – Iniciado em Agosto/2024  
+ - Curso Excel Impressionador ( Hashtag treinamentos) – Iniciado em Agosto/2024
+ - Curso Python para Data Science e Machine Learning – Iniciado em Agosto/2024 
  - [Curso Power BI Experience (_Março 2023_)]()
 
 > ### Linguagem de Programação
